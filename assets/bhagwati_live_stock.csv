@@ -1,0 +1,863 @@
+id,name,brand,category,price,stock_packs,expiry
+1,1 Al Syp 30ml,Fdc,syrup,50.82,3,06/27
+2,1 Al Syp 30ml,Fdc,syrup,50.0,3,04/27
+3,1 Al Syp 30ml,Fdc,syrup,50.82,1,07/27
+4,1 Al Syp 30ml,Fdc,syrup,50.0,1,06/27
+5,1 Al Tab,Fdc,tablet,32.48,1,10/26
+6,1 Al Tab,Fdc,tablet,38.1,2,01/27
+7,7 La Suspension 200ml Susp,Fdc,suspension,135.09,2,02/27
+8,Acemiz Mr Tab,Lupin,tablet,112.78,3,10/26
+9,Acemiz S Tab,Lupin,tablet,119.02,4,04/26
+10,Acemiz S Tab,Lupin,tablet,130.92,5,03/27
+11,Aciloc 150mg Tab,Cadila,tablet,46.03,5,04/27
+12,Aciloc Rd Tab,Cadila,tablet,86.53,2,03/27
+13,Acivir Cream 10,Cipla,cream,166.08,2,11/27
+14,Acivir Dt 400mg Tab,Cipla,tablet,143.43,1,01/28
+15,Acivir Dt 400mg Tab,Cipla,tablet,143.43,1,09/27
+16,Acivir Dt 400mg Tab,Cipla,tablet,143.43,1,04/27
+17,Adulsa 100ml,Yug,,80.0,1,08/27
+18,Adulsa Ayusas Sapat 100ml,Sapat,syrup,90.0,2,09/28
+19,Adulsa Ayusas Sapat 100ml,Sapat,syrup,90.05,1,12/26
+20,Adulsa Ayusas Sapat 100ml,Sapat,syrup,90.0,1,12/26
+21,Adult Daiper M,Unitas,,487.5,1,11/27
+22,Adult Diaper Pant (M),Himalaya,paint,468.75,1,10/28
+23,Ahaglow Advanced 50gm,Torrent,facewash,357.0,1,01/27
+24,Aldigesic P Tab,Alkem,tablet,103.12,4,11/26
+25,Aldigesic P Tab,Alkem,tablet,112.5,5,11/26
+26,Aldigesic P Tab,Alkem,tablet,120.0,5,11/26
+27,Alite Hair Removal Cream 60gm,Leeford,cream,350.0,6,10/27
+28,Allegra 120 Tab,Sanofi,tablet,248.18,1,02/27
+29,Allegra 180mg Tab,Sanofi,tablet,283.7,1,12/26
+30,All Out 85,All,liquid,85.0,2,09/26
+31,Allout Combo Pack,All,,93.43,1,12/27
+32,Almond Drops 19ml,Mankind,drops,10.0,2,10/28
+33,Almond Oil 45ml,Bajaj,oil,39.0,2,09/28
+34,Almox 250mg Cap,Alkem,capsule,38.43,5,06/26
+35,Almox 500mg Cap,Alkem,capsule,115.84,5,12/26
+36,Amlokind 5 Tab,Mankind,tablet,23.28,3,02/28
+37,Amrutanjan Roll On 5ml,Amrutanjan,roll on,37.5,5,12/26
+38,Anjeera Chocolate Tab,Company,tablet,200.0,199,12/28
+39,Ankle Grip L,Flamingo,surgicals,359.0,1,05/30
+40,Ankle Grip M,Flamingo,surgicals,359.0,1,07/30
+41,Anovate Oint (20gm),Usv,ointment,138.38,1,03/27
+42,Applicaps Blister,General,capsule,28.13,2,04/27
+43,Aquasol A Inj,Usv,injection,39.32,1,09/26
+44,"Arm Sling Pouch (Large), Grey",Pharma,device,469.0,1,11/30
+45,"Arm Sling Pouch (Medium), Grey",Pharma,,469.0,1,11/30
+46,Artical D3 Tab,Akshar,tablet,200.6,1,04/26
+47,Ascoril D Junior Syp 60ml,Glenmark,syrup,107.0,1,01/26
+48,Ascoril D Junior Syp 60ml,Glenmark,syrup,100.31,2,01/26
+49,Ascoril D Junior Syp 60ml,Glenmark,syrup,117.0,2,11/26
+50,Ascoril D Junior Syp 60ml,Glenmark,syrup,117.0,5,07/27
+51,Ascoril Expectorant 120ml,Glenmark,expectorant,157.97,2,02/27
+52,Ascoril Ls Jr 106.00 Syp 60ml,Gelmark,syrup,116.0,2,11/26
+53,Ascoril Ls Junior Syp 60ml,Glenmark,syrup,116.0,10,02/27
+54,Ascoril Ls Junior Syp 60ml,Glenmark,syrup,116.0,3,11/26
+55,Ascoril Ls Junior Syp 60ml,Glenmark,syrup,116.0,3,11/26
+56,Ascoril Ls Junior Syp 60ml,Glenmark,syrup,116.0,2,08/26
+57,Ascoril Ls Syp 100ml,Glenmark,syrup,132.19,4,12/26
+58,Ascoril Ls Syp 100ml,Glenmark,syrup,144.85,3,06/27
+59,Ascoril Ls Syp 100ml,Glenmark,syrup,154.5,3,07/27
+60,Ascoril Syp 100ml,Glenmark,,144.38,1,07/26
+61,Ashwini Hair Oil 180ml,Ashwini,oil,168.75,1,07/26
+62,Asthakind Syp 60ml,Mankind,syrup,80.13,2,04/27
+63,Asthalin Inhaler 200 Md,Cipla,inhaler,165.92,1,12/26
+64,Asthalin Resp Sol,Cipla,,8.01,3,01/28
+65,Asthalin Respules 2.5ml,Cipla,inhaler,8.54,5,05/28
+66,A To Z 200ml,Alkem,,205.55,2,10/26
+67,A To Z Ns Tab,Alkem,tablet,170.85,10,12/26
+68,Avil 25mg Tab,Sanofi,tablet,12.42,2,02/28
+69,Avil Inj 2ml,Sanofi,injection,58.69,1,05/28
+70,Azee 100mg Syp 15ml,Cipla,,47.3,2,04/27
+71,Azee 200mg Liquid 15ml,Cipla,syrup,53.7,2,11/26
+72,Azee 250mg Tab,Cipla,tablet,122.33,2,10/27
+73,Azee 500mg Tab,Cipla,tablet,123.74,2,11/27
+74,Azicip 100mg Syp 15ml,Cipla,syrup,50.46,5,02/27
+75,Azicip 250 Tab,Cipla,tablet,73.52,4,01/28
+76,Azicip 500 Tab,Cipla,tablet,80.0,3,06/27
+77,Azicip 500 Tab,Cipla,tablet,80.0,5,04/28
+78,Babyhug Feeding Bottle 125ml,Chemco,bottle,117.19,2,04/27
+79,Badi Sof Ark,Rapscos,,21.0,1,06/28
+80,Badisop Ark 5ml,Everest,liquid,252.0,1,05/28
+81,Bajrang Lep 10gm,Ayurvedic,powder,23.44,10,09/26
+82,Bandy Plus Susp 10ml,Mankind,suspension,45.1,2,07/27
+83,Bandy Syp 10ml,Mankind,tablet,20.0,2,06/27
+84,Becosules Cap,Pfizer,capsule,56.71,4,05/26
+85,Benadryl Syp 150ml,Johnson,syrup,159.38,2,08/26
+86,Besix Eye Drops 5ml,Ajanta,drops,265.31,1,11/26
+87,Betadine 10% Solution 100ml,Win,solution,102.9,2,04/27
+88,Betadine Gargle 100ml,Win,syrup,313.13,1,06/26
+89,Betadine Gargle 50ml,Win,gargle,173.44,2,02/26
+90,Betnesol Tab,Glaxo,tablet,15.94,0,02/27
+91,Betnesol Tab,Glaxo,tablet,15.94,5,02/27
+92,Betnovate C Skin Cream 30gm,Glaxo,cream,66.42,2,11/26
+93,Betnovate M Cream 20gm,Glaxo,cream,21.84,1,11/26
+94,Betnovate N Cream 25gm,Glaxosmithkline,tablet,57.0,2,02/26
+95,Bevon Syp 200ml,Zuventus,syrup,201.4,5,12/26
+96,Bevon Syp 200ml,Zuventus,syrup,188.81,1,08/26
+97,Bevon Syp 200ml,Zuventus,syrup,188.81,1,02/26
+98,Bio Dns 500ml,P,,40.08,10,08/27
+99,Birch Soap,Arise,soap,120.0,1,06/28
+100,Blue Chip Lip Balm 12gm,Mehta,,30.0,6,08/27
+101,Boomer Jar,Wrigley,,250.0,249,10/26
+102,Boroline 6gm,G,,10.0,5,11/27
+103,Boroline Cream Tube 20gm,G,cream,40.0,3,11/28
+104,Borolin Sx Cream 20gm,Zzzzzz,cream,45.0,1,09/28
+105,Boroplus Antiseptic Cream 6ml,Emami,cream,10.0,3,05/28
+106,Boroplus Cream 5ml,Himani,cream,5.0,4,07/28
+107,Boro Plus Doodh Kesar Body Lotion 20ml,Emami,lotion,10.0,4,11/27
+108,Boro Plus Doodh Kesar Body Lotion 20ml,Emami,lotion,9.38,2,11/27
+109,Brahmi Bati 40tab,Baidyanath,tablet,140.0,1,04/30
+110,Brite Cream 20gm,Wallace,cream,222.0,1,02/27
+111,B Tex 14gm,White,cream,28.13,2,06/27
+112,B Tex Ointment 14gm,B,ointment,30.0,3,05/28
+113,Budecort 0.5mg Respules 2ml,Cipla,respule,133.25,1,11/26
+114,Budecort 0.5mg Respules 2ml,Cipla,respule,27.12,5,03/27
+115,Budecort 0.5mg Respules 2ml,Cipla,respule,26.6,7,10/26
+116,Budecort 0.5mg Respules 5x2ml,Cipla,inhaler,124.92,3,11/26
+117,Budecort 0.5mg Respules 5x2ml,Cipla,inhaler,133.25,5,11/26
+118,Budecort Resp 0.5,Cipla,respule,133.25,1,02/27
+119,Buds Rs 10,Company,unit,11.8,12,02/28
+120,Bunase 0.5mg/2ml Respules,Macleods,respule,127.12,6,07/27
+121,Bunase 1.0mg Respules,Macloeds,,127.07,3,09/27
+122,Bunase L 0.5 Respule,Macleods,respule,192.19,6,09/27
+123,Burnheal Cream 15gm,Cipla,cream,92.95,4,02/27
+124,Burnheal Cream 15gm,Cipla,cream,92.95,3,02/27
+125,Buscogast Inj 1ml,Sanofi,injection,11.8,5,11/27
+126,Calamine Lotion 100ml,Medinova,lotion,140.63,3,08/27
+127,Calcimax D Syp 200ml,Meyer,syrup,190.0,2,06/27
+128,Calpol 250mg Syp 60ml,Glaxo,syrup,45.7,9,05/27
+129,Calpol 250mg Syp 60ml,Glaxo,syrup,45.7,2,12/26
+130,Calpol 500mg Tab,Glaxo,tablet,14.02,4,12/26
+131,Calpol 500mg Tab,Glaxo,tablet,14.26,1,08/27
+132,Calpol 500mg Tab,Glaxo,tablet,14.26,10,09/27
+133,Calpol 500mg Tab,Glaxo,tablet,14.26,1,07/27
+134,Calpol 650+ Tab,Glaxo,tablet,31.5,5,07/26
+135,Calpol Paed Drops 15ml,Glaxo,drops,28.19,5,03/27
+136,Calpol Ped Drop 15ml,Abcd,drops,28.19,5,02/27
+137,Candibiotic Plus Ear Drops 5ml,Glenmark,drops,99.38,3,05/26
+138,Candid Cream 30gm,Glenmark,cream,96.08,3,04/28
+139,Candiderma Plus Cream 10gm,Glenmark,cream,121.41,2,11/26
+140,Candid Gold Anti Fungal Powder 100gm,Glenmark,powder,237.5,1,12/26
+141,Candituf 200mg Cap,Cadila,capsule,232.26,3,09/26
+142,Cannula Fixator,Semuns,bandage,80.0,10,02/28
+143,Castor Oil 50ml,Company,,50.0,3,06/28
+144,Cebate Gm Active + 15gm,Universal,,35.75,3,05/27
+145,Cebate Gm Active + 15gm,Universal,,33.52,2,07/27
+146,Cebate Gm Active + 15gm,Universal,,35.75,5,09/27
+147,Cefablast 250mg Tab,Mankind,tablet,283.59,3,04/27
+148,Cefablast 250mg Tab,Mankind,tablet,283.59,5,01/27
+149,Cefaclass 100mg Tab,Mankind,tablet,103.67,4,11/26
+150,Cefaclass 200mg Tab,Mankind,tablet,109.0,10,12/26
+151,Cetaphil Cleansing Lotion 125ml,Cetaphil,lotion,429.0,1,05/28
+152,C Furo 250mg Tab,Hetero,tablet,223.13,2,03/27
+153,Cheston Cold Tab,Cipla,tablet,65.79,24,05/27
+154,Cheston Ls Syp 100ml,Cipla,syrup,118.73,6,04/27
+155,Chikki Peanut,X,packet,250.0,49,12/27
+156,Chlorhexdine Gauze,Assure,cream,500.0,1,02/28
+157,Chocostar Catbary,Crosl,pouch,177.97,1,02/26
+158,Cinaloc T Tab,Genericart,tablet,148.13,2,01/27
+159,Cipcal 500mg Tab,Cipla,tablet,98.12,5,08/26
+160,Cipcal Syp 150ml,Cipla,syrup,99.82,3,01/27
+161,Cipladine 5% Solution 100ml,Cipla,solution,45.93,3,05/27
+162,Cipladine Oint 10gm,Cipla,ointment,35.13,3,02/27
+163,Ciplox D Eye/Ear Drops 10ml,Cipla,drops,24.89,2,12/26
+164,Ciplox Eye/Ear Drops 10ml,Cipla,drops,16.16,2,08/27
+165,Ciplox Eye/Ear Drops 10ml,Cipla,drops,16.16,3,10/27
+166,Cital Liquid 100ml,Indoco,liquid,119.53,2,03/28
+167,Clavam 375mg Tab,Alkem,tablet,204.84,2,06/26
+168,Clavam 375mg Tab,Alkem,tablet,225.0,1,10/26
+169,Clavam 625mg Tab,Alkem,tablet,195.47,3,11/26
+170,Clavam 625mg Tab,Alkem,tablet,195.47,6,02/27
+171,Clavam 625mg Tab,Alkem,tablet,195.47,1,09/26
+172,Clavam Bid Dry Syp 30ml,Alkem,syrup,64.68,2,04/27
+173,Clavam Bid Dry Syp 30ml,Alkem,syrup,68.99,2,07/27
+174,Clavam Bid Dry Syp 30ml,Alkem,syrup,64.68,2,06/27
+175,Clavam Bid Dry Syp 30ml,Alkem,syrup,63.57,1,01/27
+176,Clavam Dry Syp 30ml,Alkem,syrup,68.99,2,07/26
+177,Clavam Forte Dry Susp 30ml,Alkem,suspension,195.0,2,12/26
+178,Clavam Forte Dry Susp 30ml,Alkem,suspension,166.88,3,07/26
+179,Clavix As 150mg Tab,Intas,tablet,103.0,5,04/27
+180,Clean And Clear Facewash 50ml,Johnson,,88.09,7,03/28
+181,Clinsol Gel 15gm,Leeford,gel,92.0,2,08/27
+182,Clinsol Gel 15gm,Leeford,gel,92.81,1,02/27
+183,Closeup (38gm),Hinduustan,gel,8.9,2,02/27
+184,Closeup 80g,Uhl,,72.0,1,12/27
+185,Cof Q Tab,Cipla,tablet,47.64,2,03/27
+186,Cofsil Ls Syp 100ml,Cipla,syrup,32.81,2,02/28
+187,Cofsils Orange Lozenges,Cipla,lozenge,32.81,3,02/28
+188,Coldover Syp 60ml,Brinton,syrup,108.0,3,11/26
+189,Colgate Gentle Tooth Brush,P,,40.0,9,10/28
+190,Colgate Maxfresh 10/,Colgate,toothpaste,10.0,1,02/26
+191,Colgate Maxfresh 80g,Clogate,toothpaste,70.0,1,10/28
+192,Colgate Max Fresh Paste 40 G,Colgate,paste,20.0,6,10/28
+193,Colgate Maxfresh Tooth Paste,Colgate,paste,10.0,1,10/28
+194,Colgate Pain Out 10gm,Colgate,gel,84.38,2,06/27
+195,Colgate Strong Teeth Toothpaste 17gm,Colgate,toothpaste,8.9,2,06/27
+196,Colgate Strong Toothpaste 38g,Palmolive,toothpaste,17.8,2,02/26
+197,Colgate Zigzag Brush,Colgate,toothbrush,35.0,10,10/28
+198,Colin Spray 125ml,Reckitt,liquid,35.59,2,04/27
+199,Combiflam Susp 60ml,Sanofi,,46.08,4,04/27
+200,Combiflam Syp 60ml,Sanofi,syrup,46.08,5,05/27
+201,Combiflam Syp 60ml,Sanofi,syrup,46.08,2,05/27
+202,Combiflam Tab,Sanofi,tablet,52.22,1,07/27
+203,Complan Kb Jar 200gm,Bio,,137.92,1,10/26
+204,Consivas 20mg Tab,Emcure,tablet,210.98,3,11/27
+205,Consivas 20mg Tab,Emcure,tablet,204.8,3,08/27
+206,Corn Caps Medigrip Bandage,Precision,capsule,60.0,3,04/28
+207,Cotaryl Cream 75gm,Fdc,cream,149.53,1,01/27
+208,Cotton 10gm,Amar,surgicals,14.06,3,06/28
+209,Crepe Bandage 08 Cm,Ganeric,packet,265.0,1,07/29
+210,Crocin Advance Tab,Glaxo,tablet,31.65,1,11/26
+211,C Sora Ointment 20gm,Bestochem,ointment,102.19,3,10/26
+212,Cyclopam Drops 10ml,Indoco,drops,74.53,3,07/27
+213,Cyclopam Syp 60ml,Indoco,syrup,96.56,1,01/28
+214,Cyclopam Syp 60ml,Indoco,syrup,96.56,4,02/28
+215,Cyclopam Syp 60ml,Indoco,syrup,96.56,2,10/27
+216,Cypon Drops 15ml,Geno,drops,68.91,2,03/28
+217,Cypon Syp 200ml,Geno,syrup,139.69,2,03/28
+218,Cyra D Cap,Systopic,capsule,51.0,5,05/27
+219,Cyra D Cap,Systopic,capsule,51.0,1,01/27
+220,D 5% 500ml,Nirlife,water,37.95,10,11/27
+221,Dabur Amla Hair Oil 90ml,Dabur,oil,47.16,2,09/27
+222,Dabur Gulabari 30ml,Dabur,soap,16.0,6,06/27
+223,Dabur Honey 100gm,Dabur,liquid,70.0,5,03/26
+224,Dabur Honey 100gm,Dabur,liquid,70.0,3,09/26
+225,Dabur Honey 50gm,Dabur,honey,45.0,3,02/26
+226,Dabur Vatika Shampoo 6.5ml,Dabur,shampoo,16.0,15,08/26
+227,Dairy Milk 20,Cadbury,liquid,800.0,39,12/29
+228,Dairy Milk 5rs,Cadburry,,320.34,0,06/26
+229,Deflawok 6mg Tab,Wockhardt,tablet,197.2,4,01/27
+230,Delphyllin Inj,American,,11.0,20,09/27
+231,Denver Pride Hamilton Deo 165ml,Denver,deodorant,230.0,2,05/28
+232,Denver Pride Hamilton Deo 165ml,Denver,deodorant,230.0,1,05/28
+233,Deriphyllin Retard 150 Tab,Zydus,tablet,38.05,1,05/28
+234,Dermadew Lite Soap 75gm,Hmd,soap,176.19,1,09/27
+235,Dermadew Soap 75gm,H,soap,154.83,1,11/27
+236,Dettol Antiseptic Liquid 125ml,Reckitt,liquid,75.49,2,12/28
+237,Dettol Band Aid,Dettol,bandage,281.25,1,02/28
+238,Dexalab Inj 2ml,Laborate,injection,11.4,29,02/27
+239,Dexalab Inj 2ml,Laborate,injection,11.4,7,02/27
+240,Diclotal Aq Inj 1ml,Blue,injection,25.31,5,05/27
+241,Digital Thermometer Ambitech,Ambitech,thermometer,177.68,4,12/28
+242,Dikamali Powder 5gm,Natural,powder,20.0,2,04/26
+243,Dispo 10ml,Hmd,injection,13.41,10,03/30
+244,Dispo 10ml,Hmd,injection,55.0,8,12/29
+245,Dispo Syr 2ml,Dispovan,,4.02,14,03/30
+246,Dispo Syr 5ml,Hmd,surgicals,31.25,15,02/30
+247,Dispo Syringe 3ml,Hi,,6.09,15,10/29
+248,Dispovan 20ml,Hindustan,syringe,33.0,8,08/30
+249,Dispo Van 2ml,Hindustan,syringe,5.53,10,06/30
+250,Dolo 650 Tab,Micro,tablet,32.13,2,03/29
+251,Dolonex Dt 20mg Tab,Pfizer,tablet,244.38,1,02/28
+252,Dove Conditioner Shmp 5mrp,Hinduustan,shampoo,4.45,16,02/27
+253,Dove Shmp 2mrp,Hinduustan,shampoo,1.78,9,02/26
+254,Dove Soap 50gm,Hindustan,liquid,23.0,1,04/28
+255,Dove Soap Cream Bar (75gm),Hindustan,cream,40.0,5,12/27
+256,Doxy 100mg Tab,Reliance,tablet,37.5,3,11/26
+257,Dr Morepen Gluco One Bg 03 Monitor,Morepen,,623.44,1,05/30
+258,Dr Morepen Gluco One Blood Glucose 25 Strips,Morepen,kit,467.81,1,03/27
+259,Dr Morepen Pregnancy Test Kit,Dr,strip,51.56,3,03/27
+260,Dr Ortho Strong Oil 60ml,Dr,oil,148.13,2,05/28
+261,D Sol 400iu Drops 30ml,Cipla,drops,82.21,2,08/26
+262,Dulcoflex Tab,Sanofi,tablet,12.38,2,03/28
+263,Duolin 1.25mg+500mcg 5r Respules 2.5ml,Cipla,,137.15,5,03/27
+264,Duolin 3 Respule 3ml,Cipla,respule,27.43,11,03/27
+265,Duolin 3 Respules 3ml,Cipla,respule,27.43,5,05/27
+266,Duolin 3 Respules 3ml,Cipla,respule,27.43,5,05/27
+267,Duolin Inhaler 1x200md,Cipla,inhaler,425.65,1,11/26
+268,Durex 10pc (Mutual Climax),Reckitt,,478.0,1,03/28
+269,Durex Air 3pc,Reckitt,condom,90.0,1,01/28
+270,Durex Extra Dots 3n,Reckitt,condom,99.0,2,12/27
+271,Durex Extra Dots 3 P,Reckitt,condom,108.0,6,02/28
+272,Durex Extra Ribbed 3pcs,Reckitt,condom,99.0,2,12/27
+273,Durex Extra Thin 3pcs,Reckitt,condom,108.0,2,02/28
+274,Durex Extra Thin Wild Strawberry Condom 10pcs,Reckitt,condom,216.0,1,04/28
+275,Durex Extra Time 3pcs,Reckl,condom,90.0,2,06/28
+276,Durex Extra Time 3pcs,Reckl,condom,90.0,2,12/27
+277,Durex Intense 3pc,Ttk,condom,180.0,2,01/28
+278,Durex Wild Strawberry 3s,Durex,condom,60.0,5,12/27
+279,Dyna Heating Belt,Dynamic,,970.0,1,01/30
+280,Dynapar Tab,Troikaa,tablet,118.59,1,02/29
+281,Dytor 10mg Tab,Cipla,tablet,96.3,2,12/27
+282,Easibreathe Cap,Cipla,capsule,81.67,3,07/27
+283,Easibreathe Cap,Cipla,capsule,81.67,5,07/27
+284,Easi Breathe Softgel Cap,Cipla,capsule,69.61,3,04/28
+285,Ecosprin 150 Tab,Usv,tablet,10.43,2,03/27
+286,Ecosprin 75 Tab,Usv,tablet,5.15,2,02/27
+287,Ecosprin Av 150 Cap,Usv,capsule,61.64,2,02/27
+288,Ecosprin Av 75 Cap,Usv,capsule,61.22,2,10/26
+289,Ecosprin Av 75 Cap,Usv,capsule,65.3,2,10/26
+290,Ecosprin Av 75 Cap,Usv,capsule,61.22,3,02/27
+291,Ecosprin Av 75 Cap,Usv,capsule,65.3,3,12/26
+292,Electral Orange Sachet 4.4gm,Fdc,tablet,4.65,18,04/27
+293,Electral Orange Sachet 4.4gm,Fdc,tablet,4.65,25,06/27
+294,Electral Orange Sachet 4.4gm,Fdc,tablet,23.25,12,04/27
+295,Electrol Sachets 4.4gm 4.4gm,Fdc,,5.0,15,02/26
+296,Electrol Sachets 4.4gm 4.4gm,Fdc,,4.57,5,04/26
+297,Eltroxin 25mcg 60s Tab,Glaxo,tablet,184.6,1,09/26
+298,Eltroxin 50mcg Tab,Glaxo,tablet,112.08,1,08/26
+299,Eltroxin 75mcg Tab,Glaxo,tablet,183.32,1,11/26
+300,Emami Kesh King Oil 30ml,Emami,oil,50.0,6,09/28
+301,Emeset Syp 30ml,Cipla,syrup,40.31,6,03/27
+302,Emeset Syp 30ml,Cipla,syrup,39.68,1,02/27
+303,Em Zando Blam 8ml,Emami,balm,43.0,4,10/28
+304,Em Zando Blam Ultra 8ml,Emami,balm,48.0,5,09/28
+305,Enerzal Orange Fc Juice 200ml,Fdc,liquid,36.56,5,03/26
+306,Enerzal Orange Fc Juice 200ml,Fdc,liquid,36.5,12,03/26
+307,Enerzal Orange Fc Juice 200ml,Fdc,liquid,36.56,5,03/26
+308,Enerzal Orange Liq 500ml,Fdc,liquid,55.3,9,04/26
+309,Enerzal Orange Liq 500ml,Fdc,liquid,55.31,5,02/26
+310,Enerzal Orange Pow 75gm,Fdc,powder,43.6,5,01/27
+311,Enerzal Orange Pow 75gm,Fdc,powder,43.6,4,01/27
+312,"Engage On Cool Aqua Pocket Perfume, 17ml",Itc,box,65.0,1,11/29
+313,Eno Money Saver,Glaxo,powder,61.88,3,05/27
+314,Ensure Diabetic Care Chocolate Bib 200gm,Abbott,powder,480.51,1,04/26
+315,Ethon Spirit 100ml,Cymer,liquid,37.5,2,07/26
+316,Etosys Mf Tab,Systopic,tablet,245.0,1,08/27
+317,Ever Golden Peel Off,Everyuth,,15.0,5,07/28
+318,Ever Golden Peel Off,Everyuth,,15.0,11,03/28
+319,Everyuth Naturas Tan Removal Face Pack 20r,Everyuth,face mask,20.0,5,07/27
+320,Everyuth Tulsi Turmeric Face Wash 50gm,Zydus,,80.08,1,02/28
+321,Everyuth Walnut Scrub 7gm,Zydus,sachet,13.35,5,05/28
+322,Evion 400 Cap,Merck,capsule,95.55,1,06/27
+323,Evion 400 Cap,Merck,capsule,89.57,3,10/27
+324,Examination Gloves L,Medirich,,1800.0,1,07/28
+325,Eyemist Eye Drops 10ml,Sun,drops,214.69,1,03/28
+326,Face Mask 3ply Blue,General,,4.0,99,02/28
+327,Fair & Handsome Face Wash 50gm,Emami,facewash,97.88,1,11/27
+328,Falero Strawberry 525gm,Mapro,,140.63,0,10/26
+329,Falero Strawberry 525gm,Mapro,,140.63,1,10/26
+330,Feburic 40mg Tab,Ajanta,tablet,238.12,1,08/28
+331,Femite Lotion 9ml,Dabur,lotion,276.56,1,12/27
+332,Festive Dee Eye/Ear Drops 10ml,Laborate,drops,69.3,3,02/27
+333,Fevicol 5mrp,Pidilite,packet,5.0,10,05/27
+334,Fluka 150mg Tab,Cipla,tablet,12.66,10,01/28
+335,Flusid B Cream 10gm,Biochem,cream,142.5,2,11/26
+336,Fogg Deo 120ml,Vini,spray,225.0,6,11/27
+337,Folichem Tab,Alkem,tablet,48.51,10,11/26
+338,Foracort 0.5 Resp 2ml,Cipla,respule,82.62,5,08/26
+339,Foracort 200 Inhaler 120mdi,Cipla,inhaler,372.96,1,10/27
+340,Foracort 200 Rotacaps,Cipla,tablet,180.18,1,07/26
+341,Foracort 200 Synchrobreathe Inhaler,Cipla,inhaler,498.88,1,05/27
+342,Foracort 200 Synchrobreathe Inhaler,Cipla,inhaler,498.88,1,03/27
+343,Ganpati Heena Mehandi,Jsr,,16.86,4,10/27
+344,Gar Acno F/W,Garnier,,69.0,3,12/28
+345,Garnier Brown,Abc,,45.0,13,10/28
+346,Garnier Color Naturals Cream Rich 1 Natural Black 35ml+30gm,Loreal,cream,99.0,1,06/28
+347,Garnier Colour Natural 3,L,,99.0,1,02/28
+348,Garnier Colour Shade 3,Loreal,,229.0,1,02/28
+349,Garnier Men Acno Fight Face Wash 25gm,Loreal,facewash,69.0,1,05/28
+350,Garnier Men Double Turbo 50gm,Garnier,facewash,139.0,2,04/28
+351,Garnier Men Oil Clear,Loreal,facewash,125.0,1,07/28
+352,Garnier Men Turbobright Anti Pollution Double Action Face Wash 100gm,Garnier,facewash,299.0,1,01/28
+353,Garnier Skin Neem Face Wash,Garnier,facewash,85.0,1,07/27
+354,Gar Sachet 3.16 Bur E,Lonare,,45.0,13,10/28
+355,Gasex Fiz Jaljeera Sachet 5gm,Himalaya,sachet,8.0,49,12/26
+356,Gastica Drops 15ml,Mankind,drops,63.75,3,01/27
+357,Gauze Swab 10cm*10cm*12ply*4pcs,Shivadesh,bandage,115.0,10,06/28
+358,Gelusil Mps Liq 200ml,Pfizer,liquid,157.76,3,12/26
+359,Gemsoline Syp,Medley,syrup,130.0,2,06/27
+360,Genxvast 10mg Tab,Genix,tablet,18.28,3,11/27
+361,Genxvast 10mg Tab,Genix,tablet,18.28,1,08/27
+362,Geriforte 60tab Tab,Himalaya,tablet,150.0,1,03/28
+363,Get Out Cockroach Paste.,Statue,,80.0,2,12/27
+364,Gillette Blade@14 (Png),Gillete,device,14.0,10,04/27
+365,Gillette Guard Cart 8s,P,razor,98.0,1,07/28
+366,Gillette Guard Razor 1pc,Gillette,razor,28.0,3,04/27
+367,Gillette Guard Small Cream 25gm,Gillette,cream,29.0,5,02/28
+368,Glimp M1 Tab,Biochem,tablet,105.85,8,04/26
+369,Glow & Lovely Cream 15gm,Hindustan,,25.0,5,10/28
+370,Glucon D Orange 100gm,P,powder,49.83,1,09/26
+371,Gluconorm Z Xr 60 Tab,Lupin,tablet,240.75,1,07/27
+372,Glycerin 15rs,G,,16.0,6,11/27
+373,Glycerin 25g,Verma,liquid,25.0,3,09/27
+374,Glycomet 250mg Tab,Usv,tablet,17.63,5,03/28
+375,Glycomet 250mg Tab,Usv,tablet,17.63,5,03/28
+376,Glycomet Gp 1 Tab,Usv,tablet,122.34,2,03/27
+377,Glynase Mf Tab,Usv,tablet,20.81,4,10/26
+378,Godrej Expert Original Hair Colour Powder 3gm,Godrej,sachet,200.0,1,07/26
+379,Goodknight Flash Refill 45ml,Godrej,liquid,85.0,2,05/27
+380,Good Morning All Insect Killer Spray,Statue,spray,150.0,2,12/27
+381,Goodnight Combi@105 (Harsha),Goodnight,device,105.0,1,02/27
+382,Gopi Malai Chocolate,General,,200.0,1,05/26
+383,Hair & Care Hair Oil 48ml,Marico,oil,29.36,2,03/28
+384,Hair Removal Spray Men,Cupid,spray,245.0,1,08/28
+385,Hajmola Anardana Sachet 160s,Hajmola,sachet,170.0,1,06/26
+386,Head & Shoulder 2 Rs,Proctor,shampoo,32.0,1,10/26
+387,Head & Shoulders Neem Shampoo 340ml,Procter,shampoo,28.47,1,05/26
+388,Hi Fi Rose Water 30ml,Hi,water,16.0,6,04/26
+389,Himalaya Baby Powder 100gm,Himalaya,powder,102.33,2,11/27
+390,Himalaya Baby Powder 50gm,Himalyan,toothpaste,53.39,2,12/27
+391,Himalaya Baby Powder 50gm,Himalyan,toothpaste,65.0,2,06/28
+392,Himalaya Baby Shampoo 100ml,Himalaya,,102.33,1,09/27
+393,Himalaya Baby Soap 50gm,Himalaya,soap,44.0,2,09/28
+394,Himalaya Baby Soap Refreshing 75gm,Himalaya,soap,60.51,2,01/28
+395,Himalaya Gental Baby Soap 25gm,Himalaya,soap,15.0,2,08/28
+396,Himalaya Gentle Baby Shampoo 100ml,Himalaya,shampoo,106.0,3,09/28
+397,Himalaya Kesar Fase Pack 10r,Himalaya,face mask,10.0,5,05/28
+398,Himalaya Lip Balm 5gm,Himalaya,balm,17.8,6,04/28
+399,Himalaya Neem Face Wash 20rs,Himalaya,gel,20.0,3,01/28
+400,Himalaya Tan Removal Orange Facewash 100ml,Himalaya,facewash,209.0,1,02/27
+401,Himalya Baby Lotion 50ml,Hiamalaya,lotion,60.0,1,03/28
+402,Him Baby Mass Oil 100ml,Himalaya,oil,140.0,1,02/27
+403,Him Lip Balm,Himalaya,balm,40.0,5,07/28
+404,Him Neem Face Scrub 8gm,Himalaya,,10.0,6,05/28
+405,Him Neem F/W 15ml,Himalaya,,20.0,3,07/28
+406,Him Walnut Scrub 8gm,Himalaya,,10.0,5,04/28
+407,Hit Red 125ml,Godrej,spray,75.0,3,06/27
+408,Hmd Dispo Van Needle 24 G,Hmd,device,2.25,30,12/27
+409,Hot Water Bag,Amkay,surgicals,350.0,1,12/30
+410,Hot Water Bag Junior,Nano,,334.75,1,06/29
+411,Hot Water Bag Junior,Nano,,395.0,1,06/29
+412,Hot Water Bag Mini,Sayas,surgicals,120.0,1,11/30
+413,Huggies Pants L 5,Huggies,sanitary pad,65.63,1,05/28
+414,Huggies Pants M5,Kimberly,,56.25,1,12/27
+415,Huggies Pants S 5,Kimberly,,46.88,1,08/27
+416,Hydrocort 100mg Inj,Abbott,injection,47.82,5,03/27
+417,Hydrogen Peroxide,Amar,liquid,30.0,1,12/28
+418,Hydrogen Peroxide,Amar,liquid,25.0,3,04/27
+419,Ibugesic Plus Suspension 60ml,Cipla,syrup,44.73,2,04/28
+420,Indica 10min Powder Hair Colur,Cavinkare,powder,210.0,1,01/27
+421,Insulin Syr U 40,Company,,10.09,20,10/29
+422,Iodex 16gm,Glaxo,cream,86.25,3,01/27
+423,Iodex 4gm,Biodex,balm,14.06,4,04/26
+424,Iodex 50gm,Skf,tablet,178.13,3,06/27
+425,Isotroin 10mg Cap,Cipla,capsule,368.88,1,12/27
+426,Istavel 25mg Tab,Sun,tablet,77.81,4,06/27
+427,Istavel Empa 25 Tab,Sun,tablet,220.0,1,01/27
+428,Iv Set Poly (Gsp),Surgical,surgicals,150.0,16,12/29
+429,Jj Baby Oil 200ml,J,,213.56,2,03/27
+430,Jj Baby Powder 100gms,J,,111.23,4,11/27
+431,Jj Baby Shampoo 100ml,J,oil,106.78,1,02/28
+432,Jj Baby Soap 100gm,J,soap,81.86,2,02/28
+433,Jj Soap 50g,Jhonson,soap,44.49,3,03/28
+434,Joy Activated Charcoal Face Wash 100ml,Rsh,facewash,151.27,1,04/27
+435,Joy Facewash Papaya 50ml,Joy,cream,85.0,1,06/28
+436,Joy Honey & Almonds Lotion 300ml,Rsh,lotion,310.0,2,06/28
+437,Joy Lip Balm,Joy,balm,48.0,3,07/28
+438,Joy Lotion Honey Almond (100ml),Joy,lotion,95.0,3,06/28
+439,Kapiva Amla Juice 1lt,Kapila,liquid,280.0,1,08/27
+440,Kapiva Ashawgandha 30 Cap,Kapiva,capsule,280.0,1,06/28
+441,Kapiva Dia Free Juice 500ml,Ayushraj,liquid,300.0,4,08/27
+442,Kapiva Shilajit Energy Cap 20s,Kapiva,capsule,280.0,1,02/28
+443,Kapiva Shilajit Tab 30s,Kapiva,tablet,655.31,1,06/28
+444,Kapiva Thar Aloe Vera Juice 1l,Kapiva,liquid,280.0,1,07/27
+445,Keo Karpin Hair Oil 100ml,Deys,oil,48.94,1,03/27
+446,Keshking Anti Hairfall Shampoo 80ml,Emami,shampoo,69.0,1,04/27
+447,Ketokem Soap 75gm,Alkem,soap,127.25,3,09/27
+448,Kit Kat Mrp 10,Nestle,gummies,420.0,1,03/26
+449,Kit Kat Mrp 10,Nestle,gummies,8.47,42,02/26
+450,Knee Cap (L) Flamingo,Flamingo,bandage,429.0,1,11/30
+451,Koflet Ex Linctus 100ml,Himalaya,syrup,126.0,2,08/28
+452,Koflet H Jar,Himalaya,lozenges,308.0,2,06/28
+453,Koflet Lozenges 160+40,Hema,,375.0,0,07/28
+454,Koflet Sf Linctus 100ml,Himalaya,linctus,126.0,1,08/28
+455,Koflet Syp 100ml,Himalaya,syrup,117.0,1,08/28
+456,Krack Cream 15gm,Reckitt,tablet,61.88,2,10/26
+457,Ks Pocket Deo 18ml,Raymond,deodorant,70.0,1,02/27
+458,Ktn Cream,Universal,cream,77.34,1,02/27
+459,Lactocalamine Hydration 30ml,Piramal,,85.0,3,06/28
+460,Lasix Inj 4ml,Sanofi,injection,12.55,5,06/27
+461,Levocet M Kid Tab,Hetero,tablet,57.1,5,07/28
+462,Levocet M Tab,Hetero,tablet,101.95,4,10/27
+463,Levosiz 10mg Tab,Systopic,tablet,46.41,1,04/26
+464,Levosiz 10mg Tab,Systopic,tablet,50.63,4,12/26
+465,Lhist Mont Fx Tab,Alkem,tablet,237.19,2,07/27
+466,Licel 8ml,Otc,shampoo,18.75,4,11/26
+467,Lice Nil Shampoo,Sujanil,shampoo,9.38,4,04/27
+468,Limcee 500mg Tab,Abott,tablet,24.68,3,03/27
+469,Limcee 500mg Tab,Abott,tablet,24.68,10,06/27
+470,Limcee 500mg Tab,Abott,tablet,24.68,5,07/27
+471,Limcee 500mg Tab,Abott,tablet,24.68,4,06/27
+472,Limcee Plus 500mg Tab,Abbott,tablet,24.68,5,10/27
+473,Limcee Zinc,Abbott,tablet,72.79,9,02/27
+474,Lipzlite Cream 15gm,Ethicare,cream,269.0,1,12/26
+475,Liv 52 Syr Plane Syp 100ml,Himalaya,syrup,126.56,1,02/28
+476,Lollypop,Others,card,500.0,99,11/28
+477,Lomo D 2mg Tab,Danish,tablet,25.98,8,06/27
+478,Lonifin Tab,Danish,tablet,20.63,7,04/26
+479,Lox 2% Jelly 30gm,Neon,jelly,34.59,1,05/27
+480,Lubikem Hylo Eye Drops 10ml,Alkem,drops,330.0,1,03/27
+481,Lulee Cream 15gm,Universal,cream,93.47,3,04/27
+482,Lupidine Powder 10gm,Lupin,powder,43.08,3,03/28
+483,Lupipara Inj 2ml,Lupin,injection,8.85,7,03/27
+484,Lupipara Inj 2ml,Lupin,injection,8.85,10,06/27
+485,Macbery 100ml,Macleods,,123.47,1,02/27
+486,Macbery Ls Syp 100ml,Macleods,syrup,111.38,1,12/26
+487,Mahabhrungaraj Oil 60ml,Purnabramha,liquid,77.0,1,12/27
+488,Mama.E Face Wash 50ml@125,Mamaearth,facewash,111.23,1,04/27
+489,Mamypoko L 1s,Unicham,diaper,14.75,2,06/28
+490,Mamy Poko M 1s,Nano,,10.71,5,03/28
+491,Mamy Poko M 1s,Nano,,11.25,13,03/28
+492,Mamypoko Pants L 1,Unicharm,diaper,13.13,2,02/28
+493,Mamypoko Pants L 7s,Unicharam,diaper,93.0,3,07/28
+494,Mamypokopants M 12s,Unicorn,,11.25,2,02/28
+495,Mamy Poko Pants M 8,Unichem,diaper,99.0,3,11/28
+496,Mamypoko Pants S 10s,Unicham,diaper,92.81,1,03/28
+497,Mamypoko Pants S 10s,Unicham,diaper,104.3,1,06/28
+498,Mamypoko Pants S 1pants,Unicharam,diaper,9.38,2,03/28
+499,Mamy Poko Pants S 1s,P,diaper,8.93,4,02/26
+500,Mamypoko Pants S 4s,Unicham,diaper,40.0,3,05/26
+501,Mamypoko Pants Xl 4s,Unicharam,diaper,75.0,3,02/28
+502,Mamypoko Pants Xl 6,Unicharm,diaper,103.13,1,02/28
+503,Manforce 30 Mrp,Mankind,,31.5,12,06/27
+504,Manforce Condom 10pc 90rs,Mankind,condom,90.0,13,04/27
+505,Manforce Stay Long Gel 5gm,Mankind,gel,23.44,30,05/27
+506,Max Dash Cap,Phoenix,capsule,70.0,1,12/27
+507,Max Dash Cap,Phoenix,capsule,70.0,10,12/27
+508,Mayuri Heena Black 25gm,Mayur,powder,17.8,10,11/26
+509,Mebarid Sy 60ml,Phyto,syrup,84.38,1,05/28
+510,Mecoace Lc Tab,Wallace,tablet,175.4,3,01/27
+511,Medicaine Gel Syp 200ml,Medley,syrup,140.63,3,01/27
+512,Mediflon No 22g Piece,Global,surgicals,117.19,15,04/26
+513,Medimix Soap 40gm,Ava,soap,45.0,5,12/27
+514,Meditape 300,J,bandage,66.45,2,05/28
+515,Meft 100mg Susp 60ml,Manufacturer,suspension,34.69,2,04/26
+516,Meftagesic Ds Susp 60ml,Blue,suspension,61.88,11,01/27
+517,Meftagesic P Syp 60ml,Blue,syrup,48.75,10,09/26
+518,Meftagesic P Syp 60ml,Blue,syrup,48.75,2,04/26
+519,Meftal 500 Tab,Blue,tablet,29.06,2,06/27
+520,Meftal P Susp 60ml,Blue,suspension,34.69,10,06/27
+521,Meftal P Tab,Blue,tablet,32.81,5,02/28
+522,Meftal Spas Tab,Blue,tablet,48.75,4,03/28
+523,Meftal Spas Tab,Blue,tablet,55.0,2,04/28
+524,Meftem 500mg Tab,Medico,tablet,29.06,2,06/27
+525,Melody Chocolates,Parle,,100.0,0,02/26
+526,Mentos 190 Pcs Jaar,Chocos,,196.88,1,02/26
+527,Metolar 25mg Tab,Cipla,tablet,42.64,3,06/27
+528,Metrogyl 400mg Tab,J,tablet,32.55,2,03/29
+529,Metron Iv 100ml,Alkem,infusion,21.0,10,05/28
+530,Met Xl 12.5mg Tab,Ajanta,tablet,117.0,4,04/28
+531,Met Xl 50 Tab,Ajanta,tablet,90.71,4,03/28
+532,Mf Condom Strawberry+Vanilla 3s,Mankind,condom,30.0,5,03/28
+533,Monast Fx Tab,Emcure,tablet,256.4,4,04/27
+534,Monast Lc Susp,Emcure,suspension,105.1,5,07/27
+535,Monast Lc Tab,Emcure,tablet,148.69,3,05/26
+536,Monast Lc Tab,Emcure,tablet,163.4,5,12/26
+537,Monisons Pain Balm 100gm,Monji,balm,163.13,1,07/27
+538,Montecip Lc Tab,Cipla,tablet,210.0,4,10/26
+539,Moov Ceam 10gm,Reckitt,tablet,61.88,4,12/27
+540,Moov Spray 15gm,Reckitt,spray,84.38,2,07/27
+541,Moov Spray 50gm,Reckitt,spray,215.62,2,07/27
+542,Movexx Mr Tab,Cipla,tablet,133.1,10,02/27
+543,Mucaine Gel Icecream 120ml,Pfizer,gel,119.61,1,03/27
+544,Mucaine Gel Mint 200ml,Pfizer,syrup,250.64,2,01/28
+545,Mucaine Gel Orange 200ml,Pfizer,syrup,227.97,1,04/28
+546,Multani Mati 50gm,L,powder,35.0,1,06/27
+547,Multani Mitti Powder 50g,Mount,powder,20.0,3,06/28
+548,Nachani Satva 250gm,Pushkaraj,powder,95.0,1,10/26
+549,Nachani Satva (Chocolet),Sd,,95.0,2,04/26
+550,Nail Clipper Agaro,Universal,kit,43.6,12,03/28
+551,Nasivion 0.01% Mini Nasal Drops (Baby) 10ml,Merck,drops,94.26,2,10/28
+552,Nebulizer Nexcure,Nex,device,1899.0,1,11/27
+553,Neosporin Eye Oint 10gm,Glaxo,cream,123.38,2,12/26
+554,Neosulf Powder 15gm,Jyoti,powder,97.45,2,02/27
+555,Neurobion Forte,Procter,tablet,43.22,2,08/26
+556,Nexcure Heating Bag,Nex,surgicals,599.0,2,12/26
+557,Nexpro Rd 40mg,Torrent,tablet,182.81,2,02/27
+558,Nicardia Ret 10,J,,105.9,2,08/28
+559,Nicip Plus Tab,Cipla,tablet,61.03,10,10/27
+560,Nicip Tab,Cipla,tablet,40.73,10,10/27
+561,Nicotex 4mg Mint,Cipla,,190.0,2,03/27
+562,Nise Tab,Dr,tablet,134.53,2,05/28
+563,Nisha Black 10gm,Yutika,,150.0,1,05/28
+564,Nisha Black@15,Abc,sachet,13.35,7,05/26
+565,Nisha Brown 15,Nisha,powder,15.0,9,03/27
+566,Nitrofon 100mg Tab,Knoll,tablet,84.84,2,04/27
+567,Nivea Cream 25ml,Beiersdorf,cream,55.0,1,07/28
+568,Nivea Express Hydration 200ml,Nivea,,310.0,1,08/27
+569,Nivea Nourishing Lotion Body Milk 75ml,Nivea,lotion,85.0,3,08/28
+570,Nivea Nourishing Lotion Body Milk 75ml,Nivea,lotion,75.64,2,07/28
+571,Nivea Shea Smooth Lotion 200ml,Nivea,lotion,330.0,1,09/28
+572,Nivea Soft Cherry Blossom Cream 50ml,Nivea,cream,105.89,1,05/27
+573,Norflox 400mg Tab,Cipla,tablet,88.54,2,12/26
+574,Novamox Cv Forte 457mg Syp 30ml,Cipla,syrup,219.77,6,10/26
+575,Nova Vasline Cream 27gm,Nnova,ointment,63.75,2,07/27
+576,Nova Vasline Cream 27gm,Nnova,ointment,68.0,5,07/27
+577,Ns Bios 100ml,Biosynergy,water,22.03,8,01/27
+578,Ns Bios 100ml,Biosynergy,water,19.64,13,02/28
+579,Ns Ffs 500ml,Infutec,infusion,34.87,20,01/28
+580,Ns Penta 500ml,Ihl,injection,29.61,5,06/27
+581,Ns Pentagaon 250ml,Pentagon,infusion,29.61,2,06/27
+582,Nupur Mehandi 75gm,Godrej,kit,35.59,3,04/28
+583,O 2 M Syp 60ml,Medley,syrup,77.81,1,01/28
+584,O 2 M Syp 60ml,Medley,syrup,77.81,2,02/28
+585,O2 New Syp 60ml,Medilyfe,syrup,77.81,3,05/28
+586,O 2 Tab,Medley,tablet,194.72,2,05/29
+587,Odomos Mosquito Cream 15gm,Dabur,cream,17.0,5,02/27
+588,Okacet Tab,Cipla,tablet,19.73,12,06/27
+589,Oma Jelly 15gm,Hindustan,jelly,13.35,2,09/27
+590,Oma Lip Balm,Hindustan,balm,8.9,1,02/27
+591,Omee D Cap,Alkem,capsule,230.0,4,01/27
+592,Omee D Cap,Alkem,capsule,60.27,19,03/27
+593,Omees D Cap,Boffin,capsule,215.63,5,01/27
+594,Omnigel 10gm,Cipla,gel,61.22,3,10/26
+595,Omnigel 20gm,Cipla,gel,107.34,3,11/26
+596,Ondem Md 4mg Tab,Alkem,tablet,54.85,2,04/27
+597,Ondem Md 4mg Tab,Alkem,tablet,54.85,2,03/27
+598,Ondican Inj 2ml,American,injection,12.53,15,06/27
+599,Oral B Brush 20,Oral,toothbrush,195.76,1,11/29
+600,Oral B Soft Brush 30rs,P,,160.17,1,11/26
+601,Orogard Mouthwash 100ml,Alkem,liquid,117.19,3,01/27
+602,Oslocure Oz Tab,Emcure,tablet,186.84,2,12/26
+603,Otek Ac Neo Ear Drops 5ml,Fdc,drops,74.86,1,07/26
+604,Otrivin Adult Nasal Spray 10ml,Glaxo,spray,109.81,2,11/27
+605,Otrivin Paediatric Nasal Drops 10ml,Glaxo,spray,47.71,2,07/28
+606,Otrivin Paediatric Nasal Spray 10ml,Glaxo,drops,43.99,1,12/26
+607,Ovral L Tab,Pfizer,tablet,71.03,3,09/27
+608,Oxipod 100mg Syp 30ml,Indoco,syrup,198.47,1,09/26
+609,Oxipod Cv 50mg Dry Syp 30ml,Indoco,syrup,101.16,2,01/27
+610,Pampers Pants L 2,Procter,diaper,28.13,2,02/28
+611,Pampers Pants M 8,Procter,diaper,98.44,1,02/27
+612,Pampers Pants S 10,Procter,diaper,92.81,1,02/28
+613,Pan 40 Tab,Alkem,tablet,175.3,2,12/27
+614,Pan 40 Tab,Alkem,tablet,175.31,2,09/27
+615,Panasonic Cell 16,Panasonic,thermometer,13.0,10,06/27
+616,Pan D Cap,Alkem,capsule,238.13,3,03/27
+617,Panrft Oral Susp,Alkem,syrup,200.0,2,06/27
+618,Parachute Oil 20 Mrp,Marico,oil,20.0,2,04/27
+619,Paracip 500 Tab,Cipla,tablet,9.45,4,01/28
+620,Patanjali Face Wash,Patanjali,facewash,70.0,7,10/27
+621,Pause 500mg Tab,Emcure,tablet,194.67,2,02/29
+622,Pediasure Vanilla Pkt 400gm,Abbott,powder,685.17,1,05/26
+623,Pentab 40mg Tab,Alembic,tablet,179.3,9,02/27
+624,Pentab D Tab,Alembic,tablet,197.6,8,02/27
+625,Perk 10rs 30gm,Cathy,sachet,8.9,1,06/26
+626,Persol Ac 2.5 Gel 20gm,Wallace,gel,123.64,2,07/27
+627,Petsaffa Powder 60gm,Divisa,powder,60.94,2,09/27
+628,Pinkoo Gripe Water 135ml,Ajanta,liquid,51.09,3,03/27
+629,Piohope 15 Tab,Mankind,tablet,61.88,1,08/27
+630,Pitambari Powder,Others,powder,29.4,2,02/26
+631,Playgard Combo 10 P,Alkem,,100.0,2,07/28
+632,Playgard Condom 3pcs,Alkem,condom,30.0,3,02/28
+633,Playgard Condom 3pcs,Alkem,condom,30.0,1,02/28
+634,Ponds Age Miracle Cream 12gm,Hindustan,,120.13,1,10/27
+635,Ponds Pow Sandal (15gm),Hindustan,,10.0,4,09/27
+636,Powergesic 100mg Patch,Jenburkt,patch,191.95,1,06/28
+637,Ppg 0.2mg Tab,Abbott,tablet,246.17,1,03/26
+638,Prega News Kit: 1 Kit,Mankind,kit,56.25,10,04/28
+639,Prilox Cream 10gm,Neon,cream,278.44,1,01/28
+640,Prilox Cream 10gm,Neon,cream,278.44,1,12/27
+641,Primolut N Tab,Zydus,tablet,57.53,9,05/28
+642,Primolut N Tab,Zydus,tablet,56.59,0,01/28
+643,Primolut N Tab,Zydus,tablet,57.53,1,03/28
+644,Pro Ease Pads Xl 6,Rspl,sanitary pad,40.0,9,05/28
+645,Pro Ease Pads Xl 6,Rspl,sanitary pad,42.0,8,05/28
+646,Pro Ease Pads Xl 6,Rspl,sanitary pad,40.0,2,05/28
+647,Protinex Chocolate Flavour 250gm,Nutricia,,347.03,1,08/26
+648,Prozcan 40 Inj,American,injection,53.89,18,03/27
+649,Qreta Tab,General,tablet,84.38,2,12/29
+650,Rablet D 40 Cap,Lupin,capsule,239.9,2,05/26
+651,Rantac Syp 100ml,J,syrup,166.98,1,09/26
+652,Rebagen 10tab Tab,Macleods,tablet,212.34,2,04/29
+653,Rednisol 8mg Tab,Leeford,tablet,57.66,4,01/26
+654,Refresh Liquigel 10ml,Allergan,gel,174.08,1,10/26
+655,Refresh Tears Eye Drops 10ml,Allergan,liquid,129.04,1,10/26
+656,Resync 0.1% Eye Drops 10ml,Alembic,drops,374.06,1,08/26
+657,Resync 0.1% Eye Drops 10ml,Alembic,drops,374.06,1,04/27
+658,Resync Eye Drops 5ml,Albia,drops,215.0,1,05/27
+659,Resync Eye Drops 5ml,Albia,drops,220.31,1,06/27
+660,Rexidin M Forte Gel 15gm,Indoco,gel,98.9,1,05/27
+661,Ring Guard Cream 5gm,Reckitt,cream,22.63,3,06/28
+662,Rinifol Z Syp 60ml,Elan,syrup,117.19,1,08/26
+663,Riniheal Cap,Healing,capsule,60.0,1,07/27
+664,Riniheal Cap,Healing,capsule,60.0,3,07/27
+665,Roll Bandage 5 Cm,Genpharma,bandage,7.0,9,06/26
+666,Rosusure F 20 Tab,Roussel,tablet,276.56,10,03/27
+667,Rotoride 6oml Syp,El,syrup,84.7,2,04/27
+668,Sapat Dr Skin Lotion 12ml,Sapat,lotion,38.0,3,02/28
+669,Saridon Tab,Bayer,tablet,46.88,2,11/26
+670,Saridon Tab,Bayer,tablet,46.88,3,11/26
+671,Saridon Tab,Bayer,tablet,46.88,5,11/26
+672,Saridon Tab,Bayer,tablet,51.56,3,06/28
+673,Scalp Set 22,Scientila,kit,19.2,9,06/28
+674,Scalp Ven Set No 23 Unit,Top,packet,23.65,2,07/28
+675,Sensodyne Rapid Relief 40gm,Glaxo,toothpaste,106.78,1,04/27
+676,Sesa Oil 100ml,Ban,oil,164.06,1,02/28
+677,Set Wet Gel 10 Rs,Marico,gel,10.0,4,07/27
+678,Shelcal 500mg Tab,Torrent,tablet,148.69,2,02/27
+679,Shelcal 500mg Tab,Torrent,tablet,148.69,3,02/27
+680,Shoulder Immobiliser Universal,Nebula,device,699.0,1,11/30
+681,Silicon Nippl,Luv,,28.13,1,01/28
+682,Similac 1 Refill 400gm,Abbott,powder,550.0,1,12/26
+683,Simply Venus Razor,Proctor,,89.0,7,02/28
+684,Sinarest Af Syp 75ml,Centaur,syrup,146.84,2,02/27
+685,Sinarest Drops 15ml,Centaur,drops,117.95,2,11/27
+686,Sinarest Plus Syp 75ml,Centaur,syrup,138.99,1,02/27
+687,Sinarest Plus Syp 75ml,Centaur,syrup,138.99,3,09/27
+688,Sinarest Syp 75ml,Centaur,syrup,146.99,2,08/28
+689,Sinarest Syp 75ml,Centaur,syrup,151.44,3,10/28
+690,Sinarest Syp 75ml,Centaur,syrup,146.99,2,04/28
+691,Sinarest Tab,Centaur,tablet,123.64,3,10/28
+692,Sinarest Tab,Centaur,tablet,112.5,10,10/36
+693,Sinarest Tab,Centaur,tablet,123.64,2,07/28
+694,Sinarest Tab,Centaur,tablet,123.64,3,07/28
+695,Sinarest Tab,Centaur,tablet,123.64,9,06/28
+696,Smart Gel,Stanley,gel,80.0,6,05/27
+697,Smilogel 10gm,Universal,tablet,33.05,5,05/27
+698,Smilogel 10gm,Universal,tablet,33.05,4,07/27
+699,Soframycin Skin Cream 30gm,Sanofi,cream,53.19,3,10/27
+700,Soframycin Skin Cream 30gm,Sanofi,cream,53.19,2,09/27
+701,Sorbitrate 5mg Tab,Abbott,tablet,43.58,1,05/28
+702,Sorbitrate 5mg Tab,Abbott,tablet,43.58,2,07/28
+703,Spasmonil Tab,Cipla,tablet,29.94,3,01/27
+704,Spasmonil Tab,Cipla,tablet,29.94,3,12/26
+705,Spoo Baby Shampoo 125ml,Torrent,shampoo,315.89,1,03/27
+706,Sporlac  Ds Tab,J,tablet,203.88,2,02/27
+707,Sporlac Sachet 1gm,Uni,sachet,45.29,2,05/27
+708,Stayfree Secure 35,Johnson,sanitary pad,35.0,4,06/27
+709,Stayfree Secure 37,J,,36.75,4,04/27
+710,Stayfree Secure 37,J,,38.85,1,04/27
+711,"Streax Insta Shampoo Hair Colour, 1 Naturalblack, 9ml+9ml",Streax,cream,22.0,9,12/27
+712,Streax Seram Blue 45ml,Hyglenic,liquid,149.0,1,10/28
+713,Streax Serum 45ml,Hyglenic,serum,120.13,2,04/28
+714,Strepsils Dry Cough Lozenges,Reckitt,lozenges,30.0,3,02/27
+715,Strepsils Orange Lozenges,Reckitts,lozenges,26.25,2,05/27
+716,Strepsils Orange Lozenges,Reckitts,lozenges,26.25,0,03/27
+717,Subneuro B6 Tab,Epione,tablet,163.13,3,05/27
+718,Subneuro B6 Tab,Epione,tablet,163.13,3,05/27
+719,Sugar Free Gold (300tab) Tab,Zydus,tablet,206.25,2,03/27
+720,Sumo Gel 15gm,Alkem,gel,65.63,2,03/27
+721,Sumo Spray 20gm,Alkem,spray,92.81,2,01/28
+722,Sumo Tab,Alkem,tablet,163.0,2,01/28
+723,Sunsilk Shampoo Rs1,P,shampoo,0.89,10,04/26
+724,Supradyn Tab,Piramal,tablet,62.2,3,04/26
+725,Sweet Heart Blue Perfume (A) 60ml,Jbj,spray,244.7,1,02/28
+726,Tapicem Inj 4.5gm,Emcure,injection,447.33,5,09/26
+727,Taxim Inj 1gm,Alkem,injection,42.68,6,09/27
+728,Tazloc Trio 40 Tab,Usv,tablet,165.47,3,05/27
+729,Tazloc Trio 40 Tab,Usv,tablet,176.5,4,07/27
+730,T Bact Oint 5gm,Glaxo,ointment,106.52,1,02/26
+731,Tedi Bar 75g,Curatio,soap,185.97,1,01/27
+732,Tedibar Ceramax Kids Bar 75gm,Torrent,soap,212.67,1,02/27
+733,Telma 20 Tab 15s,Glenmark,tablet,60.74,2,10/26
+734,Telma 40 Tab 15s,Glenmark,tablet,113.67,2,08/27
+735,Telma 40 Tab 15s,Glenmark,tablet,113.57,4,01/27
+736,Telma 40 Tab 15s,Glenmark,tablet,113.57,5,12/27
+737,Telmeros 40 Ah,Maxford,tablet,151.53,10,03/27
+738,Telmiduce Am 40mg Tab,Macleods,tablet,81.5,1,06/27
+739,Telmiduce Am 40mg Tab,Macleods,tablet,81.5,5,06/27
+740,Telmiduce Am Tab,Macleods,tablet,81.5,2,06/27
+741,Telmiduce Am Tab,Macleods,tablet,81.5,3,06/27
+742,Telmiduce Am Tab,Macleods,tablet,81.1,1,03/27
+743,Telmiduce Am Tab,Macleods,tablet,81.5,3,03/27
+744,Telmikind Am Tab,Mankind,tablet,86.08,3,06/27
+745,Telmikind Beta 50 Tab,Mankind,tablet,154.58,3,01/27
+746,Telmikind Beta 50 Tab,Mankind,tablet,149.9,1,09/26
+747,Telmikind Beta 50 Tab,Mankind,tablet,140.52,3,12/26
+748,Telmikind Beta 50 Tab,Mankind,tablet,140.53,2,09/26
+749,Temsan 40mg Tab,Emcure,tablet,70.08,4,04/28
+750,Tenovate Cream 30gm,Glaxo,cream,160.92,1,06/26
+751,Tetanus Toxoid Inj,Serum,injection,13.32,10,06/28
+752,Tetanus Vaccine Ip 0.5ml,Pharma,injection,13.32,10,04/28
+753,Three Way Stop Cock,Hmd,kit,117.19,5,12/26
+754,Threptin Vanilla Powder 200,Fancy,powder,469.0,1,11/26
+755,Thrombophob Oint 30gm,Zydus,tablet,225.53,1,03/28
+756,Thyronorm 25mcg 120s Tab,Abbott,tablet,185.41,1,03/27
+757,Thyronorm Loose 100mcg Tab,Abbott,tablet,168.83,1,07/27
+758,Thyrox 100mcg 100s Tab,Macleods,tablet,168.83,2,03/27
+759,Thyrox 50mg Tab,Macleods,tablet,129.78,1,11/26
+760,Thyrox 75 Tab,Macleods,tablet,183.98,1,05/27
+761,Truace T 4mg Tab,Trumac,tablet,206.25,2,03/27
+762,Tusq Dx For Dry Cough Liquid 100ml,Blue,liquid,103.13,1,07/27
+763,Tusq Dx Liquid For Dry Cough 100ml,Tusq,syrup,103.13,2,01/27
+764,Tusq Dx Sf Syp 100ml,Blue,syrup,110.0,5,08/27
+765,Tusq Dx Sf Syp 100ml,Blue,syrup,103.13,1,05/27
+766,Tusq X Syp 100ml,Blue,syrup,103.13,3,12/26
+767,Tusq X Syp 100ml,Blue,syrup,103.13,2,08/27
+768,Tusq X+ Syp 100ml,Blue,syrup,98.44,2,08/26
+769,Uprise D3 60k Cap 8s,Alkem,capsule,394.63,1,03/27
+770,Uprise D3 60k Cap 8s,Alkem,capsule,394.63,1,04/27
+771,Vaseline 12gm,Hindustan,gel,10.0,3,05/28
+772,Vaseline Daily Brightening Lotion 45ml,Hindustan,lotion,55.0,1,07/28
+773,Vaseline Deep Moisture 20ml,Hinduustan,lotion,10.0,4,10/28
+774,Vaseline Petroleum Jelly 12gm,Hindustan,jelly,10.0,10,06/28
+775,Vaseline Petroleum Jelly 12gm,Hindustan,jelly,10.0,5,07/28
+776,Veet Hair Removal Cream For Dry Skin 30gm,Reckitt,cream,109.0,2,04/27
+777,Veet Strip Normal Skin,Rackitt,strip,280.0,2,01/28
+778,Vertin 8mg Tab,Abbott,tablet,213.69,1,05/28
+779,Vicco Turmeric (Wso) 15gm,Vicco,cream,45.0,2,07/28
+780,Vicco Turmeric (Wso) 15gm,Vicco,cream,42.19,1,06/28
+781,Vicco Turmeric Wso Cream 7gm,Vicco,cream,14.06,3,06/28
+782,Vicks Action 500mg Advanced Tab,Procter,tablet,69.0,3,02/27
+783,Vicks Baby Rub 10ml,Procter,ointment,51.56,5,05/27
+784,Vicks Chocolate Jar 350 Drop,Procter,drops,328.13,0,11/26
+785,Vicks Cough Drops (Honey),Procter,lozenge,280.0,1,12/26
+786,Vicks Inhaler 0.5ml,Procter,inhaler,64.69,7,05/26
+787,Vicks Vaporub 10ml,Procter,ointment,48.0,4,05/27
+788,Vicks Vaporub 10ml,Procter,ointment,48.0,15,02/27
+789,Vintocare Jelly 25ml,Arihant,jelly,30.0,2,02/27
+790,Vitamin C Face Serum 10ml,Derma,serum,299.0,1,09/27
+791,Vitamin C Serum 30x 15ml,Garnier,liquid,119.0,1,08/28
+792,Vitanova D3 Sachet 1gm,Zuventus,sachet,36.28,6,07/27
+793,Vitcofol C Inj,Fdc,injection,20.99,10,08/26
+794,Vitcofol C Inj,Fdc,injection,19.68,2,09/26
+795,Vitcofol Inj 10ml,Fdc,injection,99.0,2,06/26
+796,Vitcofol Syp 200ml,Fdc,syrup,167.86,2,08/26
+797,Vitcofol Syp 200ml,Fdc,syrup,167.86,1,08/26
+798,Vithoba Harbal Paste 40gm,Vithoba,paste,40.04,2,04/27
+799,Vithoba Powder 40gm,Vithoba,powder,40.04,2,11/27
+800,Volini Gel 12gm,Sun,gel,46.88,4,07/26
+801,Volini Gel 30gm,Ranbaxy,cream,146.25,2,03/26
+802,Volini Spray 15gm,Ranbxy,spray,77.81,2,05/27
+803,Volini Spray 42gm,Sun,spray,175.31,2,08/26
+804,Vomiover Md 4mg Tab,Mankind,tablet,53.86,1,02/27
+805,V Wash Plus 20ml,Hindustan,wash,50.0,1,07/27
+806,V Wash Plus 20ml,Hindustan,wash,50.0,1,08/27
+807,V Wash Plus 20ml,Hindustan,wash,50.0,2,07/27
+808,Wet Eye Wips,Company,,89.0,2,03/27
+809,Whisper Choice Ultra Xl Wings 6 Pads,Procter,sanitary pad,42.0,5,04/27
+810,Whisper Choice Ultra Xl Wings 6 Pads,Procter,sanitary pad,50.0,7,02/27
+811,Whisper Choice Ultra Xl Wings 6 Pads,Procter,sanitary pad,50.0,2,09/26
+812,Whisper Choice Xl Wings 6 Pads,Procter,diaper,45.0,7,02/27
+813,Whisper Choixe On Xxl 6s,P,sanitary pad,55.0,5,07/28
+814,Whspr Choice Ultra 6s,P,sanitary pad,50.0,5,09/26
+815,Whspr Choice Ultra 6s,P,sanitary pad,50.0,1,09/26
+816,Wikoryl 10 Tab,Alembic,tablet,78.94,1,02/27
+817,Wikoryl 10 Tab,Alembic,tablet,86.44,3,08/27
+818,Wikoryl 325 Dt Tab,Alembic,tablet,64.97,5,08/27
+819,Wikoryl Af Drop 15ml,Alembic,,91.88,2,03/27
+820,Wikoryl Af Syp 75ml,Alembic,syrup,110.91,3,08/27
+821,Wikoryl Tab,Alembic,tablet,78.94,1,04/27
+822,Wikoryl Tab,Alembic,tablet,86.44,0,05/27
+823,Wikoryl Tab,Alembic,tablet,78.94,1,10/26
+824,Wild Stone Code 120ml,Wild,liquid,275.0,1,03/28
+825,Wild Stone Pocket Spary,Wild,spray,57.84,3,02/28
+826,Wipes,Carenow,diaper,199.0,1,06/27
+827,Woven Fab Of Cotton 15cm*10,Ayyappa,,200.0,1,06/27
+828,Wrist Brace,Flamingo,unit,239.0,2,10/30
+829,Wrist Wrap Flamingo,Flamingo,,209.0,1,09/30
+830,Wysolone 5mg Tab,Pfizer,tablet,10.82,2,03/27
+831,Xone Inj 1gm,Alkem,injection,71.09,5,04/28
+832,Xone Inj 1gm,Alkem,injection,66.65,4,03/28
+833,Xone Inj 1gm,Alkem,injection,66.65,5,04/28
+834,Zandu Balm 25ml 25ml,Emami,balm,117.19,2,04/28
+835,Zandu Balm 25ml 25ml,Emami,balm,125.0,2,07/26
+836,Zandu Balm 8ml,Emami,balm,43.13,2,05/28
+837,Zandu Balm 9ml,Emani,cream,2.0,20,09/28
+838,Zandu Balm Ultra 50ml,Emami,balm,187.0,1,09/28
+839,Zandu Balm Ultra 8ml,Emami,balm,47.81,3,06/28
+840,Zandu Balm Ultra 8ml,Emami,balm,47.81,2,06/28
+841,Zandu Cough Pouch Syp 8ml,Zandu,syrup,180.0,1,07/27
+842,Zentel Susp 10ml,Glaxo,suspension,18.8,1,01/28
+843,Zentel Susp 10ml,Glaxo,suspension,18.8,5,01/28
+844,Zentel Susp 10ml,Glaxo,suspension,18.8,1,11/27
+845,Zerodol Mr Tab,Ipca,tablet,122.72,2,04/28
+846,Zerodol Mr Tab,Ipca,tablet,122.72,1,03/28
+847,Zerodol Mr Tab,Ipca,tablet,130.9,3,04/28
+848,Zerodol P Tab,Ipca,tablet,72.19,3,04/27
+849,Zerodol P Tab,Ipca,tablet,77.1,5,05/27
+850,Zerodol Sp Tab,Ipca,tablet,139.69,5,02/28
+851,Zerodol Sp Tab,Ipca,tablet,130.31,3,11/27
+852,Zerodol Sp Tab,Ipca,tablet,149.0,2,01/28
+853,Zerodol Sp Tab,Ipca,tablet,139.69,2,02/28
+854,Zifi 100 Dry Syp 50ml,Fdc,syrup,81.65,5,11/26
+855,Zifi 200 Tab,Fdc,tablet,104.47,5,09/26
+856,Zifi 200 Tab,Fdc,tablet,102.68,0,06/26
+857,Zifi 50 Dry Syp 30ml,Fdc,syrup,51.34,2,05/26
+858,Zifi Cv 200mg Tab,Fdc,tablet,301.13,2,07/26
+859,Zincofer Tab,Apex,tablet,50.9,4,05/27
+860,Zincovit Drops 15ml,Apex,drops,68.0,2,04/26
+861,Zipod 200mg Tab,Fdc,tablet,199.65,5,05/27
+862,Zukacold Ds Oral Susp 60ml,Alkem,suspension,75.0,5,12/26
